@@ -13,5 +13,4 @@ Use Make for compilation.
 If you connect the LED between GPIO25 and GND and compile myled.c, the LED will light up.
 
 
-#コンパイル
 
